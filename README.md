@@ -86,3 +86,7 @@
 ## Read documentation [HERE](https://support.claris.com/s/article/Q-A-Uploading-files-to-FileMaker-Server-fails-or-files-upload-slowly-after-upgrading-Apache-Server-to-version-2-4-51?language=en_US)
 
 ![](images3/shoot.png)
+
+## Resolutions and Fixes
+
+![](Screen Shot 2022-12-20 at 8.45.53 AM.png)
