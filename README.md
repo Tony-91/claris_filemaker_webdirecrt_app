@@ -88,5 +88,6 @@
 ![](images3/shoot.png)
 
 ## Resolutions and Fixes
+- Useful [documentation](https://support.claris.com/servlet/fileField?entityId=ka13w000001YgRO&field=Public_File_1__Body__s)
 
-![](Screen Shot 2022-12-20 at 8.45.53 AM.png)
+![](images3/fix.png)
